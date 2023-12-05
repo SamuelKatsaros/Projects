@@ -1,4 +1,4 @@
-# Hello, I'm Samuel Katsaros 👋
+# Hello, I'm Samuel E Katsaros 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic individual passionate about industry-disrupting startups, with a keen interest in the intersection of technology and finance.
 
